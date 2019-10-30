@@ -6,4 +6,4 @@ So to run it, you need to install the corresponding environment.
 
 The code is just for showing us the agent's action space by a visualized way, since it has a large action space(30-D).
 
-The agent will move its hand joint one by one until 30th joint.
+The agent will move its hand joints one by one until 30th joint.
